@@ -183,6 +183,3 @@ def displays_sys_equation(list_xy , nbrVar , list_var = None):
 displays_sys_equation(system_equation , 2 )
 coeff = coeff_dir_incomp(system_equation , 0) 
 resolve_sys_equation(system_equation , coeff)
-print("951245")
-print("change")
-print("all")
